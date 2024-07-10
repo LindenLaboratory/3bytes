@@ -1,0 +1,16 @@
+email_address,subjects,email_length,time_period,time_since_last_email
+########################@gmail.com,"coding,finance",0,7,6
+##############@kent.ac.uk,"technology,+creative+industries",1,5,5
+##################@gmail.com,"design,-art,-cars",1,7,1
+####@queenelizabeths.kent.sch.uk,"geopolitics,politics",2,7,5
+####@queenelizabeths.kent.sch.uk,"history,+geopolitics",2,7,5
+########@gmail.com,"games,history,films",1,7,5
+###################@gmail.com,"history,+economics,+chess",0,7,5
+####@queenelizabeths.kent.sch.uk,"chess,axolotls,conspiracy+theories",2,3,3
+############@gmail.com,"ai,+economics,+chess",2,31,26
+####@queenelizabeths.kent.sch.uk,"UFC,Boxing,MMA",0,7,3
+####@queenelizabeths.kent.sch.uk,"music,+porsche,+environment",1,4,1
+####@queenelizabeths.kent.sch.uk,"ai,+economics,+chess",-1,365,24
+####@queenelizabeths.kent.sch.uk,"chess,+coding,+maths",-1,2,1
+####@queenelizabeths.kent.sch.uk,"Computer+Science,Coding",-1,2,1
+####@queenelizabeths.kent.sch.uk,"Computer+Science,Coding,Geography",-1,5,2
